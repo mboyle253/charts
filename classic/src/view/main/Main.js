@@ -10,8 +10,7 @@ Ext.define('Charts.view.main.Main', {
     xtype: 'app-main',
     layout : 'border',
     requires : [
-        'Ext.chart.series.Pie',
-        'Charts.view.main.Pie2',
+        'Charts.view.main.DonutChart',
         'Charts.view.main.ClickSpriteLegend',
         'Ext.chart.interactions.ItemHighlight'
     ],
@@ -30,12 +29,6 @@ Ext.define('Charts.view.main.Main', {
                     { name : 'P3', value : 90},
                     { name : 'P4', value : 30}
                 ]
-            }
-        },
-        formulas : {
-            prioritiesTotal : function(get){
-                var store = get('priorities');
-                return store.sum('value');
             }
         }
     },
@@ -168,52 +161,14 @@ Ext.define('Charts.view.main.Main', {
 
         var piechartConfig =
         {
-            xtype: 'polar',
+            xtype: 'donutchart',
+            padding : '10 0 0 0',
             flex : 1,
             frame : true,
-            reference: 'chart',
             bind : {
                 store : '{priorities}'
             },
-            legend: {
-                type : 'clicksprite',
-                toggleable : false,
-                docked: 'top'
-            },
-            colors : ['#D55554', '#DCB404', '#3F9F3F', '#007599'],
-            series: [{
-                type: 'pie2',
-                angleField: 'value',
-                donut: 45,
-                radiusFactor : 90,
-                label: {
-                    field: 'legendName',
-                    display: 'none',
-                    renderer : function(t, s, c, rd, idx){
-                        var data = rd.store.getData().items[idx];
-                        return data.get('name') + ' - ' + data.get('value');
-
-                    }
-                },
-                //highlight: true,
-                tooltip: {
-                    trackMouse: true,
-                    renderer: 'onSeriesTooltipRender'
-                },
-                listeners : {
-                    pieupdate : function(){
-                        console.log('update pie')
-                    }
-                }
-            }],
-
-            listeners: {
-                legendclick : function(sprite){
-                    alert(sprite.getRecord().get('name'));
-                },
-                afterrender : 'afterrenderpriorities'
-            }
-
+            colors : ['#D55554', '#DCB404', '#3F9F3F', '#007599']
         };
 
 

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07488692-61ea-4c80-a2d5-dda4e6c70b10" name="Default" comment="" />
+    <list default="true" id="07488692-61ea-4c80-a2d5-dda4e6c70b10" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/DonutChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/PieCenter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/temp/development/Charts/sass/Charts-all.scss" afterPath="$PROJECT_DIR$/build/temp/development/Charts/sass/Charts-all.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/temp/development/Charts/sass/Charts-all.scss.tmp" afterPath="$PROJECT_DIR$/build/temp/development/Charts/sass/Charts-all.scss.tmp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classic.json" afterPath="$PROJECT_DIR$/classic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classic.jsonp" afterPath="$PROJECT_DIR$/classic.jsonp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js" afterPath="$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classic/src/view/main/Main.js" afterPath="$PROJECT_DIR$/classic/src/view/main/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/example/bootstrap.json" afterPath="$PROJECT_DIR$/sass/example/bootstrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/example/bootstrap.jsonp" afterPath="$PROJECT_DIR$/sass/example/bootstrap.jsonp" />
+    </list>
     <ignored path="Charts.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,14 +40,14 @@
           <file leaf-file-name="MainViewController.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.416666">
-                  <caret line="276" column="22" selection-start-line="275" selection-start-column="14" selection-end-line="276" selection-end-column="22" />
+                <state vertical-scroll-proportion="-11.0">
+                  <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Readme.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
@@ -71,7 +83,7 @@
             <entry file="file://$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="5" column="46" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="46" />
+                  <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -80,22 +92,8 @@
           <file leaf-file-name="Pie2.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/classic/src/view/main/Pie2.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="40.944443">
-                  <caret line="191" column="30" selection-start-line="191" selection-start-column="30" selection-end-line="191" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="MainViewController.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
-              <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="93" column="27" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="27" />
+                  <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
                   <folding />
                 </state>
               </provider>
@@ -104,16 +102,30 @@
           <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="6.1100917">
-                  <caret line="333" column="66" selection-start-line="333" selection-start-column="66" selection-end-line="333" selection-end-column="66" />
+                <state vertical-scroll-proportion="0.57004046">
+                  <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
                   <folding>
-                    <marker date="1499697345995" expanded="true" signature="8484:8514" placeholder="..." />
-                    <marker date="1499697345995" expanded="true" signature="8565:8596" placeholder="..." />
-                    <marker date="1499697345995" expanded="true" signature="9310:9340" placeholder="..." />
-                    <marker date="1499697345995" expanded="true" signature="9391:9422" placeholder="..." />
-                    <marker date="1499697345995" expanded="true" signature="10031:10061" placeholder="..." />
-                    <marker date="1499697345995" expanded="true" signature="10113:10144" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+                    <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="MainViewController.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="39" column="0" selection-start-line="18" selection-start-column="6" selection-end-line="39" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -121,8 +133,48 @@
           <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-9.138461">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PieCenter.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/classic/src/view/main/PieCenter.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="38" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="38" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DonutChart.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/classic/src/view/main/DonutChart.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.78380567">
+                  <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PolarChart.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/PolarChart.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="20" column="10" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Pie.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ext/packages/core/src/sparkline/Pie.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -139,6 +191,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -154,14 +209,16 @@
         <option value="$PROJECT_DIR$/app/view/main/MainController.js" />
         <option value="$PROJECT_DIR$/resources/c3.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/classic/src/view/main/Donut.js" />
-        <option value="$PROJECT_DIR$/classic/src/view/main/DonutChart.js" />
-        <option value="$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js" />
         <option value="$PROJECT_DIR$/classic/src/view/main/Pie2.js" />
         <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js" />
-        <option value="$PROJECT_DIR$/classic/src/view/main/Main.js" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js" />
+        <option value="$PROJECT_DIR$/classic/src/viewcontroller/DonutController.js" />
+        <option value="$PROJECT_DIR$/ext/packages/charts/src/chart/AbstractChart.js" />
+        <option value="$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js" />
+        <option value="$PROJECT_DIR$/classic/src/view/main/Donut.js" />
+        <option value="$PROJECT_DIR$/classic/src/view/main/Main.js" />
+        <option value="$PROJECT_DIR$/classic/src/view/main/DonutChart.js" />
       </list>
     </option>
   </component>
@@ -208,7 +265,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,20 +282,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,88 +347,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Charts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/appsec2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -828,16 +800,18 @@
       <updated>1496446154511</updated>
       <workItem from="1496446158072" duration="32150000" />
       <workItem from="1498498270234" duration="42340000" />
-      <workItem from="1499439186743" duration="47563000" />
+      <workItem from="1499439186743" duration="54833000" />
+      <workItem from="1499959849008" duration="647000" />
+      <workItem from="1500905555563" duration="7038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122053000" />
+    <option name="totallyTimeSpent" value="137008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="2578" height="1458" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -848,8 +822,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.4984375" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21268955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21189146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3543956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45131683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963924" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -864,7 +839,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3543956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -878,6 +852,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Extracted rendering of center total for pie into custom chart objects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Extracted rendering of center total for pie into custom chart objects." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -885,6 +863,152 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="69" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/c3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1726" column="66" selection-start-line="1726" selection-start-column="66" selection-end-line="1726" selection-end-column="66" />
+          <folding>
+            <marker date="1496599370826" expanded="true" signature="334167:334184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="245" column="9" selection-start-line="245" selection-start-column="9" selection-end-line="245" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Pie2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="69" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/c3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1726" column="66" selection-start-line="1726" selection-start-column="66" selection-end-line="1726" selection-end-column="66" />
+          <folding>
+            <marker date="1496599370826" expanded="true" signature="334167:334184" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="252" column="30" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Pie2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -924,12 +1048,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
           <folding>
-            <marker date="1499697345995" expanded="true" signature="8484:8514" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="8565:8596" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9310:9340" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9391:9422" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10031:10061" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10113:10144" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -965,12 +1089,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="170" column="37" selection-start-line="170" selection-start-column="37" selection-end-line="170" selection-end-column="37" />
           <folding>
-            <marker date="1499697345995" expanded="true" signature="8484:8514" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="8565:8596" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9310:9340" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9391:9422" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10031:10061" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10113:10144" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -994,9 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,7 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,61 +1164,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.1408046">
           <caret line="1531" column="4" selection-start-line="1531" selection-start-column="4" selection-end-line="1531" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/AbstractChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5821862">
-          <caret line="836" column="55" selection-start-line="836" selection-start-column="45" selection-end-line="836" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Pie2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="40.944443">
-          <caret line="191" column="30" selection-start-line="191" selection-start-column="30" selection-end-line="191" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.138461">
+        <state vertical-scroll-proportion="0.0">
           <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.1100917">
-          <caret line="333" column="66" selection-start-line="333" selection-start-column="66" selection-end-line="333" selection-end-column="66" />
-          <folding>
-            <marker date="1499697345995" expanded="true" signature="8484:8514" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="8565:8596" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9310:9340" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="9391:9422" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10031:10061" placeholder="..." />
-            <marker date="1499697345995" expanded="true" signature="10113:10144" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.416666">
-          <caret line="276" column="22" selection-start-line="275" selection-start-column="14" selection-end-line="276" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1107,6 +1179,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="69" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/series/Pie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08906882">
+          <caret line="5" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="540" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Pie2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/ClickSpriteLegend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/legend/SpriteLegend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/core/src/sparkline/Pie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/AbstractChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.083333">
+          <caret line="518" column="9" selection-start-line="518" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/viewcontroller/MainViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="18" selection-start-column="6" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/charts/src/chart/PolarChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/PieCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57004046">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1500913789254" expanded="true" signature="7069:7099" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7150:7181" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7895:7925" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="7976:8007" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8616:8646" placeholder="..." />
+            <marker date="1500913789254" expanded="true" signature="8698:8729" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/DonutChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78380567">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
           <folding />
         </state>
       </provider>
